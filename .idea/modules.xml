@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Book.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Book.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Book.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Book.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mega.book.Book.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mega.book.Book.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mega.book.Book.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mega.book.Book.test.iml" />
+    </modules>
+  </component>
+</project>
